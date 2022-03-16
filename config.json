@@ -1,0 +1,7 @@
+[
+    {
+        "name": "_aelb1",
+        "token": "process.env.TOKEN",
+        "adminIDs": "953739400834060299"
+    }
+]
